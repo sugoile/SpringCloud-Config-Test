@@ -15,10 +15,8 @@
 # Build Tools
 .gradle
 /build/
-!gradle/wrapper/gradle-wrapper.jar
 
 target/
-!.mvn/wrapper/maven-wrapper.jar
 
 # Log file
 *.log
@@ -40,4 +38,3 @@ dist/
 nbdist/
 .nb-gradle/
 
-!/.gitignore
